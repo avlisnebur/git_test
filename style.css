@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    border: 2px solid red;
+}
+
+.box1 {
+    font-size: 18px;
+    padding: 5px;
+    margin: 10px;
+    background-color: burlywood;
+    display: inline-block;
+}
+
+.box2 {
+    font-size: 18px;
+    padding: 20px;
+    margin: 10px;
+    background-color: burlywood;
+    display: inline-block;
+
+}
+
+.box3 {
+    font-size: 18px;
+    padding: 5px;
+    margin: 10px;
+    background-color: burlywood;
+    display: inline-block;
+
+}
